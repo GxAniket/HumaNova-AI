@@ -104,9 +104,11 @@ HumaNova/
 
 ---
 
-## 🧾 License
-
-Licensed under the **MIT License** — free to use and modify with attribution.
+<p align="center">
+  📜 <strong>License & Copyright</strong><br><br>
+  🚫 All repositories © Aniket Sundriyal (GxAniket) — Unauthorized copying, modification, or distribution is strictly prohibited.<br>
+  📩 For usage or collaboration requests, please <a href="mailto:sundriyalaniket@gmail.com">contact me</a>.
+</p>
 
 ---
 
